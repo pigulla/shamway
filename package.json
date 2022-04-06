@@ -1,0 +1,12 @@
+{
+  "name": "shamway",
+  "version": "1.0.0",
+  "description": "Nothing to see here. Were you looking for 'shumway'?",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raphael Pigulla",
+  "license": "MIT"
+}
